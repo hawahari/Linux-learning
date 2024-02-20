@@ -1,3 +1,3 @@
 # Linux-learning
-inode- st
-process id-
+inode- st</br>
+process id-</br>
