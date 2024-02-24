@@ -12,3 +12,8 @@ another file or directory.</br>
 cat command reads all the files on its command line and prints their contents to the
 standard output. If no file names are supplied, cat reads the standard input. It is an appropriate command when
 more than one file needs to be read or when a file needs to be included with the output of other commands:
+
+##### head
+By default, head prints the first ten lines of each file on the command line, or from the standard input if no
+file name is given. The -n option changes that default:
+$ head -n 1 "$kjv"
