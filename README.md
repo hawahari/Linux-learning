@@ -7,3 +7,8 @@ process id-</br>
 ##### Links in Linux
 There are two types of links in linux : softlink and hardlink. Softlink(or symbolic link) is a file that refers to location of </br>
 another file or directory.</br>
+
+##### cat
+cat command reads all the files on its command line and prints their contents to the
+standard output. If no file names are supplied, cat reads the standard input. It is an appropriate command when
+more than one file needs to be read or when a file needs to be included with the output of other commands:
