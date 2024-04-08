@@ -18,5 +18,7 @@ By default, head prints the first ten lines of each file on the command line, or
 file name is given. The -n option changes that default:
 $ head -n 1 "$kjv"
 ##### curl
-curl is a command-line tool to transfer data to or from a server, using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP, or FILE). curl is powered by Libcurl. This tool is preferred for automation since it is designed to work without user interaction. curl can transfer multiple files at once. 
-
+curl is a command-line tool to transfer data to or from a server, using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP, or FILE). curl is powered by Libcurl. This tool is preferred for automation since it is designed to work without user interaction. curl can transfer multiple files at once. </br>
+###### curl download
+curl -o filename https </br>
+curl -O https </br>
