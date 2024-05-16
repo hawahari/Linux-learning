@@ -22,3 +22,5 @@ curl is a command-line tool to transfer data to or from a server, using any of t
 ###### curl download
 curl -o filename https </br>
 curl -O https </br>
+##### dmesg
+- sudo sysctl kernel.dmesg_restrict=0
