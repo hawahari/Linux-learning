@@ -24,3 +24,6 @@ curl -o filename https </br>
 curl -O https </br>
 ##### dmesg
 - sudo sysctl kernel.dmesg_restrict=0
+##### tree
+##### crontab
+
