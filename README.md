@@ -26,4 +26,4 @@ curl -O https </br>
 - sudo sysctl kernel.dmesg_restrict=0
 ##### tree
 ##### crontab
-
+- connect resistor to out of microphone to -ve gain
